@@ -3,10 +3,13 @@
 This is a Flutter app built for managing out personal expernses,our daily spend. We can add all the expenditure we have made throughout the day. This app also gives a statics of whole week, on money spent thorugout the week.
 ## Screenshots
 
-![sample1](https://user-images.githubusercontent.com/79026033/144719793-6283ed25-7a95-41a8-b636-f8139c11db3f.png)
-![sample4](https://user-images.githubusercontent.com/79026033/144719794-7492bfe1-617f-47d7-a765-c3cdf44cd309.png)
-![sample3](https://user-images.githubusercontent.com/79026033/144719796-a729d794-90c5-44d1-a5d6-c4aff27fa900.png)
-![sample2](https://user-images.githubusercontent.com/79026033/144719797-3c86a2a1-0977-4196-83c1-84c3dbfe833c.png)
+![Screenshot_1638641269](https://user-images.githubusercontent.com/79026033/144720016-f9972b79-f2ff-42c2-8b17-be38001e55d8.png)
+![Screenshot_1638641283](https://user-images.githubusercontent.com/79026033/144720019-7a7d850b-0197-4e5c-94e1-554b05039a4c.png)
+![Screenshot_1638641305](https://user-images.githubusercontent.com/79026033/144720022-22f07b83-0568-41be-8c1d-fcd047578ba2.png)
+![Screenshot_1638641294](https://user-images.githubusercontent.com/79026033/144720024-70fb0c4c-26a0-47fb-b3d8-a908f57ebd62.png)
+![Screenshot_1638641265](https://user-images.githubusercontent.com/79026033/144720026-57e8f7f1-c9a8-477d-8982-dc0d3a85e1a0.png)
+![Screenshot_1638641313](https://user-images.githubusercontent.com/79026033/144720028-b082aab5-fe9e-4849-a9ae-c6df747bf02e.png)
+
 
 
 ## Tech Stack
